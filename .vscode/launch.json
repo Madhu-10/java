@@ -1,0 +1,245 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CarPark",
+            "request": "launch",
+            "mainClass": "CarPark",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "GreatestNum",
+            "request": "launch",
+            "mainClass": "GreatestNum",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "IncDec",
+            "request": "launch",
+            "mainClass": "IncDec",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "IncPattern",
+            "request": "launch",
+            "mainClass": "IncPattern",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "RectangleArea",
+            "request": "launch",
+            "mainClass": "RectangleArea",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "Sort",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "StaticMethods",
+            "request": "launch",
+            "mainClass": "StaticMethods",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "Sumnum",
+            "request": "launch",
+            "mainClass": "Sumnum",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "ThreeDimension",
+            "request": "launch",
+            "mainClass": "ThreeDimension",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "TriangleSide",
+            "request": "launch",
+            "mainClass": "TriangleSide",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "Weekday",
+            "request": "launch",
+            "mainClass": "Weekday",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "construct",
+            "request": "launch",
+            "mainClass": "construct",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "cube",
+            "request": "launch",
+            "mainClass": "cube",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "datatypes",
+            "request": "launch",
+            "mainClass": "datatypes",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "factRecursive",
+            "request": "launch",
+            "mainClass": "factRecursive",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "leapYear",
+            "request": "launch",
+            "mainClass": "leapYear",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "methodOverloading",
+            "request": "launch",
+            "mainClass": "methodOverloading",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "methods1",
+            "request": "launch",
+            "mainClass": "methods1",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "oops",
+            "request": "launch",
+            "mainClass": "oops",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "operator",
+            "request": "launch",
+            "mainClass": "operator",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "demo(1)",
+            "request": "launch",
+            "mainClass": "pck1.demo",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "demo1",
+            "request": "launch",
+            "mainClass": "pck2.demo1",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "demo2",
+            "request": "launch",
+            "mainClass": "pck2.demo2",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "primeRecur",
+            "request": "launch",
+            "mainClass": "primeRecur",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "recur",
+            "request": "launch",
+            "mainClass": "recur",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "scannerEx",
+            "request": "launch",
+            "mainClass": "scannerEx",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "vehicle",
+            "request": "launch",
+            "mainClass": "vehicle",
+            "projectName": "JAVA_f8b12635"
+        }
+    ]
+}
