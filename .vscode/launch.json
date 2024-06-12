@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Thread_exam1",
+            "request": "launch",
+            "mainClass": "Thread_exam1",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
+            "name": "Exception2",
+            "request": "launch",
+            "mainClass": "Exception2",
+            "projectName": "JAVA_f8b12635"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

@@ -9,14 +9,14 @@ class demo{
     public int getR_no() {
         return this.r_no;
       }
-      public void setR_no(int value) {
+    public void setR_no(int value) {
         this.r_no = value;
       }
   
-      public String getName() {
+    public String getName() {
         return this.name;
       }
-      public void setName(String value) {
+    public void setName(String value) {
         this.name = value;
       }
   
@@ -52,15 +52,15 @@ public class encapsulation_exm2 {
             System.out.println("Roll no : "+d.getR_no());
 
             System.out.println("Enter Name: ");
-            d.setName(scr.nextLine());
+            d.setName(scr.next());
             System.out.println("Name : "+d.getName());
 
             System.out.println("Enter Age: ");
             d.setAge(scr.nextInt());
-            System.out.println("AGe : "+d.getAge());
+            System.out.println("Age : "+d.getAge());
 
             System.out.println("Enter Subject: ");
-            d.setSub(scr.nextLine());
+            d.setSub(scr.next());
             System.out.println("Subject : "+d.getSub());
 
             System.out.println("Enter Mark: ");
